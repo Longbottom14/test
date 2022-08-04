@@ -1,9 +1,8 @@
 hungry = input("Are you hungry")
 
-if hungry == 'yes' and hungry =='yo':
+if hungry == 'yes' or hungry == 'y':
     print('eat samosa')
     print('eat fries')
-    print('eat burger')
 else:
     #print('code')
     thirsty = input("Are you thirsty : ")
